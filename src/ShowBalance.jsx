@@ -20,7 +20,10 @@ const ShowBalance = () => {
 
   return (
     <>
+    <div>
     Balance : <span className='balance'></span> SOL
+    </div>
+    
     </>
   )
 }
